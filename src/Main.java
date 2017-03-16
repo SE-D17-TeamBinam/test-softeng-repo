@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Tom White");
+        System.out.println("Praneeth Appikatla");
         System.out.println("Evan Duffy");
         System.out.println("Andrew Nagal");
         System.out.println("John Bieber");
